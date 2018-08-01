@@ -1,6 +1,6 @@
 {
-  "git_url": "<Your GitHub Web URL>",
+  "git_url": "https://github.com/jarrodgrayson",
   "local_repository": "jmeter-sample",
-  "qtest_api_token": "<Your API Token>",
-  "qtest_url": "<Your qTest URL>"
+  "qtest_api_token": "Z3JheXNvbnRlc3R8amFycm9kZ3JheXNvbkBxYXN5bXBob255LmNvbToxNTY0NjIyMDA1NDYyOmI5NDJiMGYyNzBiYzRmZDcxNmJkZTJhNjljZGVkYTQ0",
+  "qtest_url": "https://graysontest.qtestnet.com"
 }
